@@ -2,12 +2,15 @@
 
 👋 Hi there! I'm Danyal Ejaz, located in the vibrant city of Swabi, Pakistan. I'm currently dedicated to pursuing my Bachelor's Degree in Computer Science, driven by a profound enthusiasm for fostering communities and their growth.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danyalejaz&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyalejaz&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="float: left;">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=danyalejaz&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat" style="float: right;">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=danyalejaz&layout=compact&langs_count=5&card_width=320&theme=transparent&exclude_repo=github-readme-stats&hide=css,html" />
+  </a>
+</div>
+
 
 
 ## Professional Journey
