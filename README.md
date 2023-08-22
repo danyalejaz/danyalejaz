@@ -7,7 +7,7 @@
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=danyalejaz&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat" style="float: right;">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=danyalejaz&layout=compact&langs_count=5&card_width=320&theme=transparent&exclude_repo=github-readme-stats&hide=css,html&hide_title=true&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=5&hide_rank=true&hide_progress=true&hide=css,html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&langs_count=5&hide=css,html&langs_count=5&exclude_repo=github-readme-stats&hide=css,html&exclude_repo=github-readme-stats&langs_count=5&hide=css,html&hide_title=true&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=5&hide_rank=true&hide_progress=true&hide=css,html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&card_width=250&exclude_repo=github-readme-stats&langs_count=5&hide=css,html&hide=css,html&exclude_repo=github-readme-stats&custom_title=Most%20Used%20Languages" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=danyalejaz&layout=compact&langs_count=8&card_width=320&theme=transparent" />
   </a>
 </div>
 
