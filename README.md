@@ -9,6 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyalejaz&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
+
 ## Professional Journey
 🌐 With a strong interest in web development, data science, AI, and cloud-native technologies, I've devoted my career to cultivating ecosystems that harness the potential of state-of-the-art innovations. Being ardent about building and nurturing communities, my involvement in various domains has enabled me to collaborate with enthusiastic developers, engineers, and forward-thinkers across the world.
 
