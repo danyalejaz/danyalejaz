@@ -3,14 +3,14 @@
 👋 Hi there! I'm Danyal Ejaz, located in the vibrant city of Swabi, Pakistan. I'm currently dedicated to pursuing my Bachelor's Degree in Computer Science, driven by a profound enthusiasm for fostering communities and their growth.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=onlydole&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danyalejaz&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlydole&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyalejaz&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 ## Professional Journey
-🌐 With a strong interest for web development, data science, AI, and cloud-native technologies, I've devoted my career to cultivating ecosystems that harness the potential of state-of-the-art innovations. Being ardent about building and nurturing communities, my involvement in various domains has enabled me to collaborate with enthusiastic developers, engineers, and forward-thinkers across the world.
+🌐 With a strong interest in web development, data science, AI, and cloud-native technologies, I've devoted my career to cultivating ecosystems that harness the potential of state-of-the-art innovations. Being ardent about building and nurturing communities, my involvement in various domains has enabled me to collaborate with enthusiastic developers, engineers, and forward-thinkers across the world.
 
 ## Personal Interests
 📚 Outside of my professional pursuits, I'm passionate about reading and traveling. Be it a gripping novel or an insightful study, I'm always eager to learn. Football also holds my interest. The excitement of the game and the unity it brings resonate with me.
