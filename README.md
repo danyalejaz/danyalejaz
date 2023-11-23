@@ -23,4 +23,4 @@
 📊 My passion for data science goes beyond my academic pursuits. I enthusiastically immerse myself in diverse data-driven projects, enage in thought-provoking discussions, and eagerly take part in data science-related gatherings. If you're interested in data science or other technologies or looking to collaborate, feel free to reach out!
 
 ## Connect with Me
-🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/danyalejaz/), [Twitter](https://twitter.com/idanyalejaz), or here on GitHub! Let's work together and make the technology landscape even more vibrant and dynamic.
+🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/danyalejaz/), [Twitter](https://twitter.com/twtdanyal), or here on GitHub! Let's work together and make the technology landscape even more vibrant and dynamic.
